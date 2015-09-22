@@ -1,0 +1,4 @@
+Number of edges:8
+Number of nodes:6
+Average degree:2.66666666667
+Average Clustering Coeffident:0.455277006803

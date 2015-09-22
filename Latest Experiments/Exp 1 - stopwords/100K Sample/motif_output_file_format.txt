@@ -1,0 +1,17 @@
+<#nodes> <3_motif_list[0]> <3_motif_list[1]> <3_motif_list[2]> <3_motif_list[3]> <3_motif_sum> <Nc3> <4_motif_list[0]> <4_motif_list[1]> <4_motif_list[2]> <4_motif_list[3]> <4_motif_list[4]> <4_motif_list[5]> <4_motif_list[6]> <4_motif_list[7]> <4_motif_list[8]> <4_motif_list[9]> <4_motif_list[10]> <4_motif_list[11]> <4_motif_sum> <Nc4> 
+
+
+
+
+
+
+Note:
+
+3_motif_list[2] - 3 chain
+3_motif_list[3] - 3 clique
+4_motif_list[4] - 4 star
+4_motif_list[6] - 4 chain
+4_motif_list[7] - 4 loop out
+4_motif_list[8] - 4 box
+4_motif_list[9] - 4 semi clique
+4_motif_list[10] - 4 clique
